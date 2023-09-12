@@ -20,3 +20,18 @@ Calculate area and perimeter for Triangle, Rectangle, Cicle, Square
 | `sideC` | `double` | **NotRequired**.(side for rectangle, side for triangle)  |
 | `radius` | `double` | **NotRequired**.(bace for circle)  |
 | `height` | `double` | **NotRequired**. (height for triangle)  |
+
+
+
+
+
+## Building the project
+
+You will need:
+Java JDK 8
+
+Clone the project and run
+```bash
+  ./mvnw spring-boot:run
+
+```
